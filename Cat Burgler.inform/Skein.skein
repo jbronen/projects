@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0xfc7980" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>GNOME Inform 7</generator>
+  <activeNode nodeId="node-0xfc7980"/>
+  <item nodeId="node-0xfc7980">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+The Tale of the Cat Burgler
+An Interactive Fiction by Jared Bronen
+Release 1 / Serial number 140315 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Van
+The haggard, beat-up van you&apos;re in is parked outside the Willingsworth mansion. You, my friend, are a cat burgler, which is to say you burgle cats. To the south is the mansion lobby.
+
+You can see a cupcake here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
